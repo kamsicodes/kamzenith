@@ -1,0 +1,28 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.client_container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    background:#6AAC90 !important ;
+}
+h2{
+    color: #295844;
+    font-size: 20px;
+    line-height: 30px;
+}
+.card img{
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+.footer{
+    height: 300px;
+    width: 100%;
+    background: #295844;
+    margin-top: 100px;
+}
